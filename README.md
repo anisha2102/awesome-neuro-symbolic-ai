@@ -1,5 +1,5 @@
 # Awesome Neuro-Symbolic AI
-A WIP curated list of resources for Neuro-Symbolic Visual Reasoning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A WIP curated list of resources for Neuro-Symbolic Visual Reasoning 
 
 Contribute to this list by contacting [me](https://anisha2102.github.io/) or submit a [pull request](https://github.com/anisha2102/awesome-neuro-symbolic-ai/pulls)!
 
@@ -16,7 +16,7 @@ Contribute to this list by contacting [me](https://anisha2102.github.io/) or sub
 
 [Inferring and Executing Programs for Visual Reasoning](https://arxiv.org/abs/1705.03633), _ICCV 2017_
 
-[Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding](https://arxiv.org/abs/1810.02338), _Neurips 2018_
+[Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding](https://arxiv.org/abs/1810.02338), _NeurIPS 2018_
 
 [The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://arxiv.org/abs/1904.12584), _ICLR 2019_
 
