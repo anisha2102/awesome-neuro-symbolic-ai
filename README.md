@@ -1,5 +1,5 @@
 # Awesome Neuro-Symbolic AI
-A WIP curated list of resources for Neuro-Symbolic Visual Reasoning 
+A WIP curated list of resources for Neuro-Symbolic Visual Reasoning [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 Contribute to this list by contacting [me](https://anisha2102.github.io/) or submit a [pull request](https://github.com/anisha2102/awesome-neuro-symbolic-ai/pulls)!
 
